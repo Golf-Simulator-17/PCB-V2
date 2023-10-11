@@ -350,7 +350,7 @@
     (property "ki_keywords" "cap capacitor")
     (path "/8c863673-15cf-4fe3-bec4-8061c6ec355c")
     (attr smd)
-    (fp_text reference "C2" (at 0 -1.16 90) (layer "F.SilkS")
+    (fp_text reference "C2" (at 1.52 -1.16 90) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f2b59747-46f1-43ac-8c35-6aef02ce3bea)
     )
