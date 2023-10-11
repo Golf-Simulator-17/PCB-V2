@@ -194,7 +194,9 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "label_dangling|1|326871312|5575cf14-8232-46c8-9473-3d6174d2fe35|00000000-0000-0000-0000-000000000000|||"
+    ],
     "meta": {
       "version": 0
     },
@@ -409,7 +411,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PCB.kicad_pro",
+    "filename": "MCU+IMU.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -443,7 +445,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "../../../Applications/KiCad/KiCad.app/Contents/Applications/",
+      "netlist": "MCU+IMU.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -473,7 +475,7 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "",
+    "net_format_name": "KiCad",
     "ngspice": {
       "fix_include_paths": true,
       "fix_passive_vals": false,
@@ -496,7 +498,7 @@
   },
   "sheets": [
     [
-      "d9f15cc4-04b7-414f-9766-ef396b42d7fe",
+      "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       ""
     ]
   ],
