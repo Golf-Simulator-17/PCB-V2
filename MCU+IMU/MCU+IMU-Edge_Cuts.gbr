@@ -1,23 +1,23 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,7.0.8*%
-%TF.CreationDate,2023-10-11T10:23:23-04:00*%
-%TF.ProjectId,MCU+IMU,4d43552b-494d-4552-9e6b-696361645f70,rev?*%
-%TF.SameCoordinates,Original*%
-%TF.FileFunction,Profile,NP*%
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,7.0.8*
+G04 #@! TF.CreationDate,2023-10-23T16:08:40-04:00*
+G04 #@! TF.ProjectId,MCU+IMU,4d43552b-494d-4552-9e6b-696361645f70,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Profile,NP*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.8) date 2023-10-11 10:23:23*
+G04 Created by KiCad (PCBNEW 7.0.8) date 2023-10-23 16:08:40*
 %MOMM*%
 %LPD*%
 G01*
 G04 APERTURE LIST*
-%TA.AperFunction,Profile*%
+G04 #@! TA.AperFunction,Profile*
 %ADD10C,0.100000*%
-%TD*%
+G04 #@! TD*
 G04 APERTURE END LIST*
 D10*
-X166000000Y-82000000D02*
+X146660701Y-103260789D02*
 G75*
 G03*
-X166000000Y-82000000I-16401219J0D01*
+X146660701Y-103260789I-15035375J0D01*
 G01*
 M02*
